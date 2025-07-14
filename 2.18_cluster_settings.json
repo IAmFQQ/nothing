@@ -2,9 +2,7 @@
   "persistent": {
     "plugins.index_state_management.template_migration.control": "-1"
   },
-  "transient": {
-    "search.concurrent_segment_search.enabled": "true"
-  },
+  "transient": {},
   "defaults": {
     "_plugin_geospatial_ip2geo_datasource_update.queue_size": "1000",
     "_plugin_geospatial_ip2geo_datasource_update.size": "1",
@@ -1075,6 +1073,7 @@
     "search.allow_expensive_queries": "true",
     "search.cancel_after_time_interval": "-1",
     "search.concurrent.max_slice_count": "0",
+    "search.concurrent_segment_search.enabled": "false",
     "search.concurrent_segment_search.mode": "none",
     "search.default_allow_partial_results": "true",
     "search.default_keep_alive": "5m",
