@@ -1,0 +1,204 @@
+{
+    ".opendistro_security": {
+        "shards": [
+            {
+                "id": 0,
+                "type": "EXISTING_STORE",
+                "stage": "TRANSLOG",
+                "primary": true,
+                "start_time_in_millis": 1754561892743,
+                "total_time_in_millis": 2865099,
+                "source": {
+                    "bootstrap_new_history_uuid": false
+                },
+                "target": {
+                    "id": "P7yws1S3QqiLNoE8zSlHXA",
+                    "host": "10.140.252.166",
+                    "transport_address": "10.140.252.166:9300",
+                    "ip": "10.140.252.166",
+                    "name": "esc218-dataslc-slc-3"
+                },
+                "index": {
+                    "size": {
+                        "total_in_bytes": 55460,
+                        "reused_in_bytes": 55460,
+                        "recovered_in_bytes": 0,
+                        "percent": "100.0%"
+                    },
+                    "files": {
+                        "total": 25,
+                        "reused": 25,
+                        "recovered": 0,
+                        "percent": "100.0%",
+                        "details": [
+                            {
+                                "name": "_7.cfs",
+                                "length_in_bytes": 3956,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.nvm",
+                                "length_in_bytes": 427,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.fnm",
+                                "length_in_bytes": 2471,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.nvd",
+                                "length_in_bytes": 179,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.tip",
+                                "length_in_bytes": 87,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.kdi",
+                                "length_in_bytes": 68,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.fdm",
+                                "length_in_bytes": 157,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.fdt",
+                                "length_in_bytes": 13358,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.tim",
+                                "length_in_bytes": 21837,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_7.cfe",
+                                "length_in_bytes": 517,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.kdm",
+                                "length_in_bytes": 143,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.pos",
+                                "length_in_bytes": 165,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_7.si",
+                                "length_in_bytes": 333,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.kdd",
+                                "length_in_bytes": 118,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.tmd",
+                                "length_in_bytes": 5611,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.psm",
+                                "length_in_bytes": 112,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene90_0.dvd",
+                                "length_in_bytes": 648,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_1.fnm",
+                                "length_in_bytes": 2472,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.fdx",
+                                "length_in_bytes": 79,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene90_0.dvm",
+                                "length_in_bytes": 1373,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_1_Lucene90_0.dvm",
+                                "length_in_bytes": 160,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "segments_h",
+                                "length_in_bytes": 454,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_Lucene912_0.doc",
+                                "length_in_bytes": 79,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6_1_Lucene90_0.dvd",
+                                "length_in_bytes": 87,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            },
+                            {
+                                "name": "_6.si",
+                                "length_in_bytes": 569,
+                                "reused": true,
+                                "recovered_in_bytes": 0
+                            }
+                        ]
+                    },
+                    "total_time_in_millis": 1,
+                    "source_throttle_time_in_millis": 0,
+                    "target_throttle_time_in_millis": 0
+                },
+                "translog": {
+                    "recovered": 0,
+                    "total": 0,
+                    "percent": "100.0%",
+                    "total_on_start": 0,
+                    "total_time_in_millis": 2865073
+                },
+                "verify_index": {
+                    "check_index_time_in_millis": 0,
+                    "total_time_in_millis": 0
+                }
+            }
+        ]
+    }
+}
